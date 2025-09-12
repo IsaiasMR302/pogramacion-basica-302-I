@@ -1,4 +1,1 @@
-# pogramacion-basica-302-I
-## isaias martinez ruiz
-## fecha de nac 30/septiembre/2009
-## portafolio de codigos de c++
+<img width="828" height="622" alt="image" src="https://github.com/user-attachments/assets/aff3cbcb-a73a-45f2-99ee-7ec22228a86a" />
