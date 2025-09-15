@@ -1,3 +1,4 @@
+``` cpp
 %%writefile PB302_1.cpp
 //programa para imprimir mensaje de bienvenida
 //creado por Isaias Martinez Ruiz
@@ -11,3 +12,4 @@ int main()
   cout<<"gracias por programar en clase";
   return 0;
 }
+```
