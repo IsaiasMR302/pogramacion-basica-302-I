@@ -15,6 +15,6 @@ int main()
   return 0;
 }
 ```
-##puebra de escritorio
+## puebra de escritorio
 bienvenidos isaias a progrmacion basica en C++
 gracias por programar en clase
